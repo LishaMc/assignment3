@@ -1,1 +1,1 @@
-web: node docs/index.html
+web: vendor/bin/heroku-php-apache2 web/
